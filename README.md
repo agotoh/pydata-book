@@ -1,12 +1,5 @@
 # pydata-book
-
-Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney,
-published by O'Reilly Media
-
-# 2nd Edition Readers
-
-If you are reading the [2nd Edition][1], please find the reorganized book
-materials on the [`2nd-edition` branch][2].
+pythonによるデータ分析 NumPy,Pandasを使ったデータ処理の学習記録
 
 ## IPython Notebooks:
 
